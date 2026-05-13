@@ -1,0 +1,100 @@
+# =============================================
+# Flutter / Dart - Gerados automaticamente
+# =============================================
+
+# Dependências (flutter pub get)
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Arquivos de plugins gerados automaticamente
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build outputs
+build/
+
+# Dart generated files
+*.g.dart
+*.freezed.dart
+*.gr.dart
+
+# =============================================
+# Android - Gerados automaticamente
+# =============================================
+**/android/.gradle/
+**/android/captures/
+**/android/local.properties
+**/android/key.properties
+**/android/app/google-services.json
+**/android/*.iml
+**/android/gradlew
+**/android/gradlew.bat
+
+# =============================================
+# iOS - Gerados automaticamente
+# =============================================
+**/ios/.symlinks/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Pods/
+
+# =============================================
+# Web
+# =============================================
+**/web/dart_sdk.js.map
+
+# =============================================
+# macOS
+# =============================================
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# =============================================
+# Windows / Linux
+# =============================================
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/flutter/generated_plugins.cmake
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/flutter/generated_plugins.cmake
+
+# =============================================
+# IDEs / Editores
+# =============================================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# =============================================
+# Sistema operacional
+# =============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =============================================
+# Variáveis de ambiente e segredos
+# =============================================
+.env
+.env.*
+google-services.json
+GoogleService-Info.plist
+
+# =============================================
+# Arquivos de log e temporários
+# =============================================
+*.log
